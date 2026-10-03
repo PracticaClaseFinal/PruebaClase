@@ -5,7 +5,7 @@
       Ejemplo México: 5219991234567
    ========================================================= */
 const CONFIG = {
-  whatsappNumber: "521XXXXXXXXXX",
+  whatsappNumber: "529231001923",
   businessName: "Floral Royal"
 };
 
